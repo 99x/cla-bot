@@ -8,6 +8,7 @@ The cla-bot manages and monitors all contributors who have signed the <b> Contri
 - Run `npm i` from within the project directory
 - Create a `.env` file with the schema specified in the `.env.example` file.
 - Setup MongoDB locally or you can simply use [MLab](https://mlab.com) they have a free Sandbox plan.
+- Finally run `npm run dev`
 - We utilize [cla-bot](https://github.com/clabot/clabot) for this project, so its best you read through there documentation. 
 
 # License
